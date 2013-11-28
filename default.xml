@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="b"
-           fetch=".."
+  <remote  name="buongiorno"
+           fetch="http://review.buongiorno.com/"
            review="http://review.buongiorno.com/" />
   <default revision="master"
-           remote="b"
+           remote="buongiorno"
            sync-j="4" />
 
 <!--
