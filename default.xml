@@ -3,7 +3,7 @@
 
   <remote  name="b"
            fetch=".."
-           review="https://review.buongiorno.com/" />
+           review="http://review.buongiorno.com/" />
   <default revision="master"
            remote="b"
            sync-j="4" />
