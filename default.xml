@@ -2,8 +2,8 @@
 <manifest>
 
   <remote  name="buongiorno"
-           fetch="http://review.buongiorno.com/"
-           review="http://review.buongiorno.com/" />
+           fetch="http://test.review.buongiorno.com/"
+           review="http://test.review.buongiorno.com/" />
   <default revision="master"
            remote="buongiorno"
            sync-j="4" />
