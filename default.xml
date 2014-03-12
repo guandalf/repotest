@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="fe/buongiorno"
+  <remote  name="buongiorno"
            fetch="http://test.review.buongiorno.com/"
            review="http://test.review.buongiorno.com/" />
   <default revision="master"
