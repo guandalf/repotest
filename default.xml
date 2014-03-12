@@ -13,9 +13,12 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 -->
+<!--
   <project path="InstantMessaging" name="InstantMessaging" />
   <project path="PIP" name="PIP" />
+-->
   <project path="api" name="api" />
+<!--
   <project path="apps" name="apps" />
   <project path="appsfuel" name="appsfuel" />
   <project path="appsfuelbe" name="appsfuelbe" />
@@ -42,7 +45,9 @@
   <project path="musicats" name="musicats" />
   <project path="nativeapps" name="nativeapps" />
   <project path="perllib" name="perllib" />
+-->
   <project path="phplib" name="phplib" />
+<!--
   <project path="plugins" name="plugins" />
   <project path="promo" name="promo" />
   <project path="rss" name="rss" />
@@ -53,8 +58,9 @@
   <project path="tests" name="tests" />
   <project path="trunk" name="trunk" />
   <project path="wap" name="wap" />
+-->
   <project path="webstore" name="webstore" />
-
+<!--
   <project path="wl/aliceadsl_it_tim" name="wl/aliceadsl_it_tim" />
   <project path="wl/alicemobile_it_tim" name="wl/alicemobile_it_tim" />
   <project path="wl/tekka" name="wl/tekka" />
@@ -117,7 +123,9 @@
   <project path="wl/webstore_at_igirls" name="wl/webstore_at_igirls" />
   <project path="wl/webstore_at_igossip" name="wl/webstore_at_igossip" />
   <project path="wl/webstore_at_mobivillage" name="wl/webstore_at_mobivillage" />
+-->
   <project path="wl/webstore_at_playplanet" name="wl/webstore_at_playplanet" />
+<!--
   <project path="wl/webstore_at_waala" name="wl/webstore_at_waala" />
   <project path="wl/webstore_au_goldgamifive" name="wl/webstore_au_goldgamifive" />
   <project path="wl/webstore_au_ifortune" name="wl/webstore_au_ifortune" />
@@ -439,4 +447,5 @@
   <project path="wl/webstore_za_muchgossip" name="wl/webstore_za_muchgossip" />
   <project path="wl/webstore_za_playplanet" name="wl/webstore_za_playplanet" />
   <project path="wl/webstore_za_waala" name="wl/webstore_za_waala" />
+-->
 </manifest>
