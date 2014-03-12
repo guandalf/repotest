@@ -16,9 +16,7 @@
 <!--
   <project path="InstantMessaging" name="fe/InstantMessaging" />
   <project path="PIP" name="fe/PIP" />
--->
   <project path="api" name="fe/api" />
-<!--
   <project path="apps" name="fe/apps" />
   <project path="appsfuel" name="fe/appsfuel" />
   <project path="appsfuelbe" name="fe/appsfuelbe" />
@@ -45,9 +43,7 @@
   <project path="musicats" name="fe/musicats" />
   <project path="nativeapps" name="fe/nativeapps" />
   <project path="perllib" name="fe/perllib" />
--->
   <project path="phplib" name="fe/phplib" />
-<!--
   <project path="plugins" name="fe/plugins" />
   <project path="promo" name="fe/promo" />
   <project path="rss" name="fe/rss" />
@@ -211,8 +207,10 @@
   <project path="wl/webstore_es_mobiletv" name="fe/wl/webstore_es_mobiletv" />
   <project path="wl/webstore_es_motime" name="fe/wl/webstore_es_motime" />
   <project path="wl/webstore_es_mrmandril" name="fe/wl/webstore_es_mrmandril" />
+<!--
   <project path="wl/webstore_es_mrmandriltv" name="fe/wl/webstore_es_mrmandriltv" />
   <project path="wl/webstore_es_myguess" name="fe/wl/webstore_es_myguess" />
+-->
   <project path="wl/webstore_es_playplanet" name="fe/wl/webstore_es_playplanet" />
   <project path="wl/webstore_es_pornoteca" name="fe/wl/webstore_es_pornoteca" />
   <project path="wl/webstore_es_taptofun" name="fe/wl/webstore_es_taptofun" />
