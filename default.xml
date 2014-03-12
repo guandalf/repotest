@@ -207,13 +207,13 @@
   <project path="wl/webstore_es_mobiletv" name="fe/wl/webstore_es_mobiletv" />
   <project path="wl/webstore_es_motime" name="fe/wl/webstore_es_motime" />
   <project path="wl/webstore_es_mrmandril" name="fe/wl/webstore_es_mrmandril" />
-<!--
   <project path="wl/webstore_es_mrmandriltv" name="fe/wl/webstore_es_mrmandriltv" />
   <project path="wl/webstore_es_myguess" name="fe/wl/webstore_es_myguess" />
 -->
   <project path="wl/webstore_es_playplanet" name="fe/wl/webstore_es_playplanet" />
   <project path="wl/webstore_es_pornoteca" name="fe/wl/webstore_es_pornoteca" />
   <project path="wl/webstore_es_taptofun" name="fe/wl/webstore_es_taptofun" />
+<!--
   <project path="wl/webstore_es_taptostar" name="fe/wl/webstore_es_taptostar" />
   <project path="wl/webstore_es_tmyguess" name="fe/wl/webstore_es_tmyguess" />
   <project path="wl/webstore_es_waala" name="fe/wl/webstore_es_waala" />
